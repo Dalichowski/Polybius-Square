@@ -132,4 +132,4 @@ function bifid(text) {
     
 }
 
-bifid('ghlcrddyaykal')//ghlcrddyaykal
+bifid('ghlcrddyaykal')//ikilledmufasa
