@@ -146,4 +146,4 @@ function bifid(text) {
     
 }
 
-bifid('I will look for you, I will find you, and I will kill you.')
+bifid('I killed Mufasa!') //'ghlcrddyaykal'
